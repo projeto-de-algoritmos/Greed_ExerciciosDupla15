@@ -12,12 +12,14 @@
 ## Sobre 
 O projeto consiste na resolução de x exercícos do site [LeetCode](https://leetcode.com/problemset/all/).
 
-* Leetcode 55 - [Jump Game](hhttps://leetcode.com/problems/jump-game/)
+* Leetcode 55 - [Jump Game](https://leetcode.com/problems/jump-game/)
     * [Código](/55.cpp) 
     
 * LeetCode 1029 - [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
     * [Código](/1029.cpp) 
     
+* LeetCode 1561 - [Maximum Number of Coins You Can Get](https://leetcode.com/problems/two-city-scheduling/](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/))
+    * [Código](/1561.c) 
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
