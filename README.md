@@ -17,35 +17,41 @@ O projeto consiste na resolução de x exercícos do site [LeetCode](https://lee
     
 * LeetCode 1029 - [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
     * [Código](/1029.cpp) 
+
+* Leetcode 1561 - [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
+    * [Código](/1561.cpp) 
     
-* LeetCode 1561 - [Maximum Number of Coins You Can Get](https://leetcode.com/problems/two-city-scheduling/](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/))
-    * [Código](/1561.c) 
+* LeetCode 1833 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
+    * [Código](/1833.cpp) 
+    
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+* Leetcode 55
 
+![image](/assets/55.png)
+
+* Leetcode 1029
+
+![image](/assets/1029.png)
+
+* Leetcode 1561
+
+![image](/assets/1561.png)
+
+* Leetcode 1833
+
+![image](/assets/1833.png)
 ## Instalação 
-**Linguagem**: C e C++<br>
+**Linguagem**: C++<br>
 
 ### **Comandos Necessários**
-```
-$ sudo apt install gcc
-```
+
+Não é necessário nenhum comando.
+
 ## Uso 
 
-### C++
+É necessário colocar o código no site do LeetCode e dar o comando "Run".
 
-O próprio site LeetCode possui editor de texto com compilador para C++.
-### C
-
-* Para compilar os problemas em C:
-```
-$ gcc -o NomeCodigo NomeCodigo.c
-```
-* Após a compilação, para executar os problemas:
-```
-$ ./NomeCodigo
-```
 ## Outros 
 
 Apresentação no Youtube: 
