@@ -1,44 +1,54 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Greed_ExerciciosDupla15
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 15<br>
+**Conteúdo da Disciplina**: Greedy<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0058258  |  Henrique Galdino Couto |
+| 19/0116498  |  Rodrigo Braz Ferreira Gontijo |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto consiste na resolução de x exercícos do site [LeetCode](https://leetcode.com/problemset/all/).
+
+* Leetcode 55 - [Jump Game](hhttps://leetcode.com/problems/jump-game/)
+    * [Código](/55.cpp) 
+    
+* LeetCode 1029 - [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
+    * [Código](/1029.cpp) 
+    
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C e C++<br>
 
+### **Comandos Necessários**
+```
+$ sudo apt install gcc
+```
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
+### C++
+
+O próprio site LeetCode possui editor de texto com compilador para C++.
+### C
+
+* Para compilar os problemas em C:
+```
+$ gcc -o NomeCodigo NomeCodigo.c
+```
+* Após a compilação, para executar os problemas:
+```
+$ ./NomeCodigo
+```
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
+Apresentação no Youtube: 
+
+O arquivo do vídeo pode ser acessado [aqui]().
 
 
 
