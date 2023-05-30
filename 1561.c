@@ -51,7 +51,7 @@ int main() {
     // imprime o resultado
     printf("Maximo numero de moedas: %d\n", result);
 
-    // libera a memória
+    // libera a memÃ³ria
     free(piles);
 
     return 0;
