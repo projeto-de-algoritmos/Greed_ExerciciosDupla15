@@ -62,7 +62,7 @@ Não é necessário nenhum comando.
 
 ## Outros 
 
-O vídeo no Youtube pode ser acessada [aqui](). 
+O vídeo no Youtube pode ser acessado [aqui](). 
 
 O arquivo do vídeo pode ser acessado [aqui]().
 
