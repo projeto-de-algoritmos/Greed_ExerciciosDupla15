@@ -10,7 +10,7 @@
 | 19/0116498  |  Rodrigo Braz Ferreira Gontijo |
 
 ## Sobre 
-O projeto consiste na resolução de 4 exercícos do site [LeetCode](https://leetcode.com/problemset/all/).
+O projeto consiste na resolução de 5 exercícos do site [LeetCode](https://leetcode.com/problemset/all/).
 
 * Leetcode 55 - [Jump Game](https://leetcode.com/problems/jump-game/)
     * [Código](/55.cpp) 
@@ -23,6 +23,9 @@ O projeto consiste na resolução de 4 exercícos do site [LeetCode](https://lee
     
 * LeetCode 1833 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
     * [Código](/1833.cpp) 
+
+* LeetCode 2405 - [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
+    * [Código](/2405.cpp) 
     
 
 ## Screenshots
@@ -41,6 +44,11 @@ O projeto consiste na resolução de 4 exercícos do site [LeetCode](https://lee
 * Leetcode 1833
 
 ![image](/assets/1833.png)
+
+* Leetcode 2405
+
+![image](/assets/2405.png)
+
 ## Instalação 
 **Linguagem**: C++<br>
 
