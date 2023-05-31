@@ -62,9 +62,9 @@ Não é necessário nenhum comando.
 
 ## Outros 
 
-O vídeo no Youtube pode ser acessado [aqui](). 
+O vídeo no Youtube pode ser acessado [aqui](https://www.youtube.com/watch?v=X2gsDK93-2s). 
 
-O arquivo do vídeo pode ser acessado [aqui]().
+O arquivo do vídeo pode ser acessado [aqui](apresentacao-greedy.mp4).
 
 
 
