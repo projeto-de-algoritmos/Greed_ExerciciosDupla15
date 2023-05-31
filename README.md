@@ -10,7 +10,7 @@
 | 19/0116498  |  Rodrigo Braz Ferreira Gontijo |
 
 ## Sobre 
-O projeto consiste na resolução de x exercícos do site [LeetCode](https://leetcode.com/problemset/all/).
+O projeto consiste na resolução de 4 exercícos do site [LeetCode](https://leetcode.com/problemset/all/).
 
 * Leetcode 55 - [Jump Game](https://leetcode.com/problems/jump-game/)
     * [Código](/55.cpp) 
