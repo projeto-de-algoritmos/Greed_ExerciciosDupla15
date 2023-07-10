@@ -10,25 +10,25 @@
 | 19/0116498  |  Rodrigo Braz Ferreira Gontijo |
 
 ## Sobre 
-O projeto consiste na resolução de 5 exercícos do site [LeetCode](https://leetcode.com/problemset/all/).
+O projeto consiste na resolução de 5 exercícios do site [LeetCode](https://leetcode.com/problemset/all/).
 
-### Leetcode 55 - [Jump Game](https://leetcode.com/problems/jump-game/)
+### [MÉDIO] Leetcode 55 - [Jump Game](https://leetcode.com/problems/jump-game/)
 
 Código: [ACESSO](/codigos/55.cpp)<br>
     
-### LeetCode 1029 - [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
+### [MÉDIO] LeetCode 1029 - [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
 
 Código: [ACESSO](/codigos/1029.cpp)<br>
 
-### Leetcode 1561 - [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
+### [MÉDIO] Leetcode 1561 - [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
 
 Código: [ACESSO](/codigos/1561.cpp)<br>
     
-### LeetCode 1833 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
+### [MÉDIO] LeetCode 1833 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 
 Código: [ACESSO](/codigos/1833.cpp)<br>
 
-### LeetCode 2405 - [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
+### [MÉDIO] LeetCode 2405 - [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
 
 Código: [ACESSO](/codigos/2405.cpp)<br>
     
